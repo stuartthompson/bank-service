@@ -1,0 +1,4 @@
+# Git ignore for our fun banking service
+
+# don't check in packages
+/node_modules
